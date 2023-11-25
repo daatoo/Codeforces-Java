@@ -34,6 +34,3 @@ Ensure you have Java installed on your system to run the programs. You can downl
 For Git aficionados, clone this repository using the command:
 ```bash
 git clone https://github.com/daatoo/JourneyInJava.git
-
-
-
