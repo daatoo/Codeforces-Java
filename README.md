@@ -19,6 +19,10 @@ This repository is neatly organized into four key directories, each containing J
 ### Collaborative Work
 While this repository hosts a selection of my individual work, the majority of my collaborative projects, especially those related to university coursework, are available in a shared repository. My friend and I have also started a YouTube channel for Java tutorials, primarily aimed at helping fellow students.
 
+🔗 Check out our collaborative work: [University Projects Repository](https://github.com/rezi-gelenidze/university-projects)
+
+📺 Our YouTube Channel: [Channel Name](https://www.youtube.com/@twiton)
+
 ## Getting Started
 
 ### Prerequisites
@@ -29,9 +33,6 @@ Ensure you have Java installed on your system to run the programs. You can downl
 #### Cloning the Repository
 For Git aficionados, clone this repository using the command:
 ```bash
-git clone https://github.com/daatoo/JourneyInJava.git
+git clone https://github.com/daatoo/JourneyInJava.git```
 
-🔗 Check out our collaborative work: [University Projects Repository](https://github.com/rezi-gelenidze/university-projects)
-
-📺 Our YouTube Channel: [Channel Name](https://www.youtube.com/@twiton)
 
