@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/problem_112A" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problem_158A" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problem_231A" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problem_236A" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problem_263A" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problem_266A" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problem_281A" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problem_282A" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problem_339A" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problem_4A" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problem_50A" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problem_546A" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problem_59A" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problem_617A" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problem_71A" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problem_791A" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problem_977A" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
