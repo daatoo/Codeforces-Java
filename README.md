@@ -34,3 +34,22 @@ Ensure you have Java installed on your system to run the programs. You can downl
 For Git aficionados, clone this repository using the command:
 ```bash
 git clone https://github.com/daatoo/JourneyInJava.git
+```
+#### How to Run
+Once you have the code on your machine, running it is just as straightforward.
+
+ - Open a terminal or command prompt.
+ - Navigate to the folder containing the code you want to run.
+ - Compile the Java file using the Java compiler:
+```bash
+javac FileName.java
+```
+- Run the compiled Java program:
+```bash
+java FileName
+```
+Don't forget to replace FileName with the actual name of the file you wish to run.
+
+And that's it! With these simple steps, you'll be running Java programs in no time.
+
+
